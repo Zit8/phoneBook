@@ -1,0 +1,4 @@
+PORT=3000
+DB_NAME=handbook
+DB_USER=admin
+DB_PASS=123
